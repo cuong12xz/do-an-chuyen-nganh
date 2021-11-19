@@ -1,0 +1,18 @@
+.lbsRadio{
+    margin-right:50px;
+  
+    margin-left:5px;
+    height:21px; width:21px;
+}
+
+.lbsCheck{
+    margin-right:10px;
+  
+    margin-left:5px;
+    height:21px; width:21px;
+}
+
+select option {
+    background: #fbaf32;
+}
+
